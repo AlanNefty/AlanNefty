@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hola, Minombre es Alan Nefti 👋
+#### Soy QA Tester Trainee con conocimientos en pruebas de software, diseño y ejecución de casos de prueba, identificación y documentación de errores. Me caracterizo por mi atención al detalle, pensamiento analítico, responsabilidad y disposición para aprender y mejorar continuamente, enfocándome en contribuir a la calidad y funcionalidad de las aplicaciones. 
 
-<!--
-**AlanNefty/AlanNefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Porfolio:
+🧪 Casos de prueba
+</br>
+🐞 Reportes de bugs
+</br>
+📋 Planes de prueba
+</br>
+🔄 Pruebas funcionales y de regresión.
+</br>
+🔌 Pruebas de API usando herramientas como Postman.
+</br>
+💻 Pruebas web y diferentes navegadores/dispositivos.
+</br>
+📊 Resultados y evidencias de tus pruebas.
 
-Here are some ideas to get you started:
+## Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://img.shields.io/badge/alan_nefti_14@hotmail.com-email-2E4E8E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=426DC2)](mailto:alan_nefti_14@hotmail.com)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Nefti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alan-nefti)
