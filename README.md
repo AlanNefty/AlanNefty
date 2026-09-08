@@ -20,4 +20,4 @@
 
 [![Email](https://img.shields.io/badge/alan_nefti_14@hotmail.com-email-2E4E8E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=426DC2)](mailto:alan_nefti_14@hotmail.com)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Nefti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alan-nefti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alan_Nefti-1CC3E9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C5CE9)](https://www.linkedin.com/in/alan-nefti)
